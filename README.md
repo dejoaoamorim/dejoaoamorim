@@ -3,7 +3,7 @@
   <a href="https://github.com/dejoaoamorim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dejoaoamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,6 +22,8 @@
      <a href = "https://codepen.io/dejoaoamorim"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
     <a href = "https://www.behance.net/joaopedroamorim"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href = "https://joaopedroamorim.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+    
+   </div><!-- center -->
  
   ![Snake animation](https://github.com/dejoaoamorim/dejoaoamorim/blob/output/github-contribution-grid-snake.svg)
  
