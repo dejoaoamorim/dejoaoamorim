@@ -1,4 +1,4 @@
-## Oláa! Sou o João Pedro, faço vídeos e lives, e agora, mexo com código nas horas vagas!
+## Oláa! Sou o João Pedro, faço vídeos e lives, e agora, um pouco de código!
 <div align="center">
   <a href="https://github.com/dejoaoamorim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dejoaoamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
