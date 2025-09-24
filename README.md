@@ -12,7 +12,6 @@
   <a href="https://instagram.com/dejoaoamorim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href = "https://codepen.io/dejoaoamorim"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
     <a href = "https://www.behance.net/joaopedroamorim"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-    <a href = "https://joaopedroamorim.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
     
    </div><!-- center -->
  
